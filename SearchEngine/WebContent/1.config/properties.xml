@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AllExtractors</comment>
+<entry key="7.extractor">net.semanticmetadata.lire.imageanalysis.features.global.CEDD</entry>
+<entry key="3.codebook.1">SIMPLEdetRndJCD128</entry>
+<entry key="4.codebook.2">SIMPLEdetCVSURFCEDD512</entry>
+<entry key="4.codebook.1">SIMPLEdetCVSURFCEDD128</entry>
+<entry key="3.detector">detRnd</entry>
+<entry key="1.extractor">net.semanticmetadata.lire.imageanalysis.features.local.opencvfeatures.CvSiftExtractor</entry>
+<entry key="4.extractor">net.semanticmetadata.lire.imageanalysis.features.global.CEDD</entry>
+<entry key="2.extractor">net.semanticmetadata.lire.imageanalysis.features.local.opencvfeatures.CvSurfExtractor</entry>
+<entry key="5.extractor">net.semanticmetadata.lire.imageanalysis.features.global.AutoColorCorrelogram</entry>
+<entry key="4.detector">detCVSURF</entry>
+<entry key="1.codebook.2">CvSIFT512</entry>
+<entry key="1.codebook.1">CvSIFT128</entry>
+<entry key="3.extractor">net.semanticmetadata.lire.imageanalysis.features.global.JCD</entry>
+<entry key="7">global</entry>
+<entry key="6.extractor">net.semanticmetadata.lire.imageanalysis.features.global.FCTH</entry>
+<entry key="2.codebook.2">CvSURF512</entry>
+<entry key="6">global</entry>
+<entry key="2.codebook.1">CvSURF128</entry>
+<entry key="5">global</entry>
+<entry key="4">simple</entry>
+<entry key="0.info.3">512</entry>
+<entry key="3">simple</entry>
+<entry key="0.info.2">128</entry>
+<entry key="2">local</entry>
+<entry key="0.info.1">net.semanticmetadata.lire.aggregators.BOVW</entry>
+<entry key="1">local</entry>
+<entry key="0.info.0">null</entry>
+<entry key="0">info</entry>
+<entry key="3.codebook.2">SIMPLEdetRndJCD512</entry>
+</properties>
